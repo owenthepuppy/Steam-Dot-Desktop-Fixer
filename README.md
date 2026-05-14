@@ -27,3 +27,5 @@ This is useful, for if you somehow don't have .desktop files to launch your game
    ```
 
 6. Follow the instructions in the program
+
+An installation script may be added later
