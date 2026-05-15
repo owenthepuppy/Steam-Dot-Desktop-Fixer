@@ -1,7 +1,7 @@
 [project]
 name = "steam-dot-desktop-fixer"
 version = "0.1.0"
-description = "Add your description here"
+description = "Recreate steam .desktop game launch files"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
