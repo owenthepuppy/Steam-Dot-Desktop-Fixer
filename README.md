@@ -33,3 +33,11 @@ An installation script may be added later
 ## Pull Requests and Issues
 
 So, I usually make projects for fun or so I can learn more programming, I don't like vibe coding, because I don't count it as coding, it's having AI code for you (and usually fails). I like coding myself, because, otherwise, just download a premade app, theres no point to doing it at all. Yes I do use Claude, but only for how to do things I don't understand, and only small bits of code, not full programs, also for checking my code to make sure it has no bugs. The same goes for pull requests for me (except the failing thing). I don't see a point of making these projects if other people just do it for me, I probably won't accept any pull requests, and if there is one, I will probably try to make it myself if I want. Instead, I would probably listen to an issue request, and then try to make it myself, unless it's too difficult, or I don't want to.
+
+
+
+
+
+
+
+i use arch btw
